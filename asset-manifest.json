@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.36c9dcb8.chunk.css",
+    "main.js": "/react-deploy/static/js/main.ddc1867f.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.ddc1867f.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.a84bdaaa.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.a84bdaaa.js.map",
+    "static/js/2.82f639e7.chunk.js": "/react-deploy/static/js/2.82f639e7.chunk.js",
+    "static/js/2.82f639e7.chunk.js.map": "/react-deploy/static/js/2.82f639e7.chunk.js.map",
+    "static/js/3.9fbaa076.chunk.js": "/react-deploy/static/js/3.9fbaa076.chunk.js",
+    "static/js/3.9fbaa076.chunk.js.map": "/react-deploy/static/js/3.9fbaa076.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.36c9dcb8.chunk.css.map": "/react-deploy/static/css/main.36c9dcb8.chunk.css.map",
+    "static/js/2.82f639e7.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.82f639e7.chunk.js.LICENSE.txt",
+    "static/media/javier.bade4c02.jpeg": "/react-deploy/static/media/javier.bade4c02.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a84bdaaa.js",
+    "static/js/2.82f639e7.chunk.js",
+    "static/css/main.36c9dcb8.chunk.css",
+    "static/js/main.ddc1867f.chunk.js"
+  ]
+}
